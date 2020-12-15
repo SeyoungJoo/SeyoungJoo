@@ -1,4 +1,4 @@
-## Hi I'm Seyoung!
+## Hi I'm Seyoung 😎
 <br />
 📍 I'm frontend web developer currently living in Seoul, Korea
 
