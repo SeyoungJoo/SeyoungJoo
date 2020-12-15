@@ -6,5 +6,5 @@
 
 <br />
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sellyjphoto@gmail.com)](mailto:sellyjphoto@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=sellyjphoto@gmail.com)](sellyjphoto@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyoungj/)](https://www.linkedin.com/in/seyoungj)
