@@ -1,7 +1,9 @@
 Hi I'm Seyoung!
 
 📍 FrontEnd Developer in London
+
 👩🏻‍💻 JavaScript, React, GraphQL, etc
+
 🧡 Travel & Blogging & ⛰️🏄‍♀️ 👩‍🍳
 
 <!--
