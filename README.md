@@ -1,8 +1,8 @@
 ## Hi I'm Seyoung!
 
-###🎈 FrontEnd Developer
-###💻 Ruby on Rails, Javascript, SQL..
-###🧡 Blogging & Photography
+### 🎈 FrontEnd Developer
+### 💻 Ruby on Rails, Javascript, SQL..
+### 🧡 Blogging & Photography
 
 <br />
 
