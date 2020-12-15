@@ -1,6 +1,7 @@
 ## Hi I'm Seyoung!
+<br />
+📍 I'm frontend web developer currently living in Seoul, Korea
 
-### 🎈 FrontEnd Developer
 ### 💻 Ruby on Rails, Javascript, SQL..
 ### 🧡 Blogging & Photography
 
