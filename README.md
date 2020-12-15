@@ -1,5 +1,9 @@
 Hi I'm Seyoung!
 
+📍 FrontEnd Developer in London
+👩🏻‍💻 JavaScript, React, GraphQL, etc
+🧡 Travel & Blogging & ⛰️🏄‍♀️ 👩‍🍳
+
 <!--
 **SeyoungJoo/SeyoungJoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
