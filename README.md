@@ -3,7 +3,7 @@
 📍 I'm a web developer currently living in Seoul, Korea
 
 ### 💥 My Portfolio Website https://seyoungjoo.com/
-### 💻 Ruby on Rails, Javascript, SQL..
+### 💻 Javascript, Ruby on Rails, CSS..
 ### 🧡 Blogging & Photography
 
 
