@@ -3,8 +3,6 @@
 
 ### 📍 I'm a front-end developer currently living in Seoul, Korea
 
-### 💻 My Portfolio Website https://seyoungjoo.com/
-
 ### ❤ Love React and CSS
 
 <br />
