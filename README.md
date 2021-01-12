@@ -1,11 +1,8 @@
 ## Hi I'm Seyoung 😎
 <br />
-📍 I'm a web developer currently living in Seoul, Korea
+#### 📍 I'm a web developer currently living in Seoul, Korea
 
-### 💥 My Portfolio Website https://seyoungjoo.com/
-### 💻 Javascript, Ruby on Rails, CSS..
-### 🧡 Blogging & Photography
-
+#### 💻 My Portfolio Website https://seyoungjoo.com/
 
 <br />
 
