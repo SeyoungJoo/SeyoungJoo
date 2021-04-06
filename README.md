@@ -6,4 +6,9 @@
 - 👀 I'm currently learning Typescript
 <br />
 
+* Ruby on Rails
+* Javascript ES6
+* React
+* HTML, CSS, SASS, Styled-component, Bootstrap ...
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=seyoungjoo&show_icons=true&hide_border=true)](https://github.com/SeyoungJoo)
