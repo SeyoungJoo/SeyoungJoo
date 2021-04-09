@@ -13,4 +13,4 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=seyoungjoo&show_icons=true&hide_border=true&theme=dracula)](https://github.com/SeyoungJoo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoungjoo&layout=compact)](https://github.com/SeyoungJoo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoungjoo&layout=compact&exclude_repo=werun,seyoungjoo.github.io)](https://github.com/SeyoungJoo)
