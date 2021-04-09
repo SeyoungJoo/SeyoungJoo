@@ -13,4 +13,4 @@
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=seyoungjoo&show_icons=true&hide_border=true&theme=dracula)](https://github.com/SeyoungJoo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoungjoo&layout=compact&exclude_repo=https://github.com/SeyoungJoo/Le-Wagon-Batch-495)](https://github.com/SeyoungJoo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyoungjoo&layout=compact&exclude_repo=https://github.com/SeyoungJoo/fullstack-challenges)](https://github.com/SeyoungJoo)
