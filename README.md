@@ -10,6 +10,6 @@
 * React
 * Ruby
 * HTML, CSS, SASS, Styled-component, Emotion, Bootstrap, Ant design ...
-* SQL
+* DB: SQL, ActiveRecord
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=seyoungjoo&show_icons=true&hide_border=true&theme=dracula)](https://github.com/SeyoungJoo)
