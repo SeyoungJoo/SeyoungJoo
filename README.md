@@ -6,10 +6,10 @@
 - 🌱 I'm currently learning Redux & Typescript
 <br />
 
-* Javascript ES6
+* Javascript (ES6 +)
 * React
 * Ruby
-* HTML, CSS, SASS, Styled-component, Emotion, Bootstrap, Ant design ...
+* HTML5, CSS3, SASS, Styled-component, Emotion, Bootstrap, Ant design ...
 * DB: SQL, ActiveRecord
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=seyoungjoo&show_icons=true&hide_border=true&theme=dracula)](https://github.com/SeyoungJoo)
