@@ -1,6 +1,8 @@
 ## Hi I'm Seyoung 😎
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&mailto:link=seyoungjoodv@gmail.com)](mailto:seyoungjoodv@gmail.com)
+[portfolio](https://www.seyoungjoo.com)
+
 - 📍 I'm a front-end developer living in Seoul, Korea
 - ❤ Love React and CSS
 - 🌱 I'm currently learning Redux & Typescript
