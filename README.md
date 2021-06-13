@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&mailto:link=seyoungjoodv@gmail.com)](mailto:seyoungjoodv@gmail.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/seyoungjoo)
- | | LinkedIn | <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> |
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyoungjoo/)](https://www.linkedin.com/in/seyoungjoo/)
 
 - 📍 I'm a front-end developer living in Seoul, Korea
 - 🌱 I'm currently learning Redux & Typescript
