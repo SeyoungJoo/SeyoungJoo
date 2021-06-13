@@ -4,6 +4,7 @@
 
 - 📍 I'm a front-end developer living in Seoul, Korea
 - 🌱 I'm currently learning Redux & Typescript
+- I have a huge passion for web front-end developing and potentially for mobile / back-end as well
 <br />
 
 * Javascript (ES6 +)
