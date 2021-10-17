@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&mailto:link=seyoungjoodv@gmail.com)](mailto:seyoungjoodv@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyoungj/)](https://www.linkedin.com/in/seyoungj/)
-[![Website shields.io](https://img.shields.io/website-green/http/shields.io.svg)](https://seyoungjoo.com)
+[![Website shields.io](https://img.shields.io/website/http/shields.io.svg)](https://seyoungjoo.com)
 
 <br />
 👉[Portfolio Website](https://seyoungjoo.com)
