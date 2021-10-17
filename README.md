@@ -5,6 +5,7 @@
 
 - 🚀 I have a huge passion for front-end development and potentially for mobile / back-end as well
 <br />
+* 🌱 Currently studying node.js and graphQL 
 
 * JavaScript (ES6 +)
 * React
