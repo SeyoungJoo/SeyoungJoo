@@ -13,9 +13,9 @@
 ### Tach stack
 * JavaScript (ES6 +)
 * React
-* Ruby
 * TypeScript
 * HTML5, CSS3, SASS, Styled-components, Material UI, Bootstrap ...
+* Ruby
 * DB: SQL, ActiveRecord
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=seyoungjoo&show_icons=true&hide_border=true&theme=dracula)](https://github.com/SeyoungJoo)
