@@ -6,8 +6,10 @@
 - 🚀 I have a huge passion for front-end development and potentially for mobile / back-end as well
 <br />
 🌱 Currently studying node.js and graphQL 
+<br />
+<br />
 
-Tach stack
+### Tach stack
 * JavaScript (ES6 +)
 * React
 * Ruby
