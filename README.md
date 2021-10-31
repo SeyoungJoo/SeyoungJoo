@@ -17,7 +17,7 @@ After working as a photographer for five years, I changed my career as a develop
 * JavaScript (ES6 +)
 * React
 * TypeScript
-* HTML5, CSS3, SASS, Styled-components, Material UI, Bootstrap ...
+* HTML5, CSS3, SASS, Styled-components, Material UI, Bootstrap ... ( I LOVE CSS )
 * Ruby
 * DB: SQL, ActiveRecord
 
