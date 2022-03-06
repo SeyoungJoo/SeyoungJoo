@@ -10,7 +10,7 @@ After working as a photographer for five years, I changed my career as a develop
 🚀 I have a huge passion for front-end development and potentially for mobile / back-end as well
 <br />
 <br />
-🌱 Currently studying node.js and graphQL 
+🌱 Currently studying react-native
 <br />
 <br />
 ### Tach stack
